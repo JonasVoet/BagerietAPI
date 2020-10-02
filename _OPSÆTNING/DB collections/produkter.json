@@ -1,0 +1,1935 @@
+[{
+  "_id": {
+    "$oid": "5f670f0dd1be3e2fd0cb2637"
+  },
+  "oprettet": {
+    "$date": "2020-09-01T20:46:15.064Z"
+  },
+  "likes": 30,
+  "titel": "Blåbærsnitter med mandler og hvid chokolade",
+  "teaser": "Snitter behøver ikke altid være med hindbær! Prøv bare dette bud på blåbærsnitter med mandler og hvid chokolade.",
+  "beskrivelse": "Smuldr smørret i hvedemel og mandelmel. Tilsæt hjortetaksalt, vaniljesukker, æggeblommer og flormelis. Saml dejen, og pak den ind i plastfilm. Lad den hvile 30 min. i køleskab.<br /><br />Del dejen i to stykker. Hvert stykke udruller du til en rektangel 8 cm bred og 35 cm lang, dejen skal være ca. ½ cm tyk.<br /><br />nLæg den ene dejplade over på en plade med bagepapir. Fordel blåbærmarmelade over. Læg den anden dejplade over.<br /><br />nBag kagen ved 180 gr. i ca. 20 min. på midterste ovnribbe.<br /><br />Smelt chokolade og smør over vandbad, og pensl det på kagen.<br /><br />Skær kagen i snitter.<br /><br />nPynt med friske, skyllede og afdryppede blåbær. Afkøl snitterne.<br />",
+  "tilberedningstid": 45,
+  "pris": 12,
+  "antal": 16,
+  "kategori": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f672d951a5c5b5f1083cdd9"
+      },
+      "ingrediens_titel": "Smør",
+      "maengde": 175,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f672dad1a5c5b5f1083cdda"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 175,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f672dc71a5c5b5f1083cddb"
+      },
+      "ingrediens_titel": "Mandelmel",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f672e5e1a5c5b5f1083cdde"
+      },
+      "ingrediens_titel": "Hjortetaksalt",
+      "maengde": 0.25,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f672f0377dea03284192dbe"
+      },
+      "ingrediens_titel": "Vaniljesukker",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677c87667d3b63109c0cf4"
+      },
+      "ingrediens_titel": "Æggeblommer",
+      "maengde": 2,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    },
+    {
+      "_id": {
+        "$oid": "5f677cb2667d3b63109c0cf5"
+      },
+      "ingrediens_titel": "Flormelis",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677cc3667d3b63109c0cf6"
+      },
+      "ingrediens_titel": "Blåbærmarmelade",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677cd6667d3b63109c0cf7"
+      },
+      "ingrediens_titel": "Hvid chokolade",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677cf5667d3b63109c0cf8"
+      },
+      "ingrediens_titel": "Friske blåbær",
+      "maengde": 1,
+      "enhed_forkortet": "håndfuld",
+      "enhed_navn": "Håndfuld"
+    }
+  ],
+  "image": "blaabaersnitter.jpg",
+  "__v": 18,
+  "kommentar": [
+    {
+      "$oid": "5f6e1b1d4994a38e5078b7ff"
+    },
+    {
+      "$oid": "5f6e1fc34994a38e5078b80a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f671006d1be3e2fd0cb2638"
+  },
+  "oprettet": {
+    "$date": "2020-09-03T08:16:15.064Z"
+  },
+  "likes": 1,
+  "titel": "Glutenfrit brød med havre",
+  "teaser": "Det er anderledes at bage glutenfrit, for det er normalt melets gluten, der holder sammen på brødet og giver krummen struktur. Her bruger vi loppefrøskaller til at holde på luft og fugt i brødet.",
+  "beskrivelse": "Rør gæren ud i lunkent vand, tilsæt de øvrige ingredienser, og rør dejen godt sammen i 1-2 min. Dæk skålen løst med film, og lad dejen hvile ved stuetemperatur i 15 min.<br /><br />Rør dejen godt igennem igen, og lad den igen hvile i 15 min. Sæt derefter dejen på køl indtil brug – eller brug den med det samme.<br /><br />Form dejen til et brød. Brug våde hænder, og glat overfladen. Vend evt. brødet i havregryn eller frø og kerner, og læg det i en smurt form (2 liter).<br /><br />Lad det hæve tildækket i ca. 1 time ved stuetemperatur – ca. 2 timer, hvis dejen er kold fra køleskabet.<br /><br />Sæt en bageplade midt i ovnen, og en bradepande på nederste rille. Varm ovnen op til 250 grader/225 grader varmluft.<br /><br />Sæt brødet i ovnen, og kast en kop vand i den varme bradepande. Luk ovnlågen, og bag i 15 min. Skru ned til 200 grader/180 grader varmluft, til skorpen er gyldenbrun og brødet er gennembagt (98 grader) ca. 30 min.<br /><br />Vend brødet ud på en rist, og lad det køle helt af, før du skærer i det.<br /><br />TIP: Skær evt. det afkølede brød i skiver, og frys det i små ”dagsportioner”. <br />",
+  "tilberedningstid": 60,
+  "pris": 12,
+  "antal": 1,
+  "kategori": {
+    "$oid": "5f63ba29702cca37f87ce074"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f677d2e667d3b63109c0cf9"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 10,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677d62667d3b63109c0cfa"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677d78667d3b63109c0cfb"
+      },
+      "ingrediens_titel": "Grovvalsede havregryn",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677d8f667d3b63109c0cfc"
+      },
+      "ingrediens_titel": "Flydende honning",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677db1667d3b63109c0cfd"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 2,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677dc2667d3b63109c0cfe"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 500,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677dd1667d3b63109c0cff"
+      },
+      "ingrediens_titel": "Blandede frø",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    }
+  ],
+  "image": "glutenfri_havrebroed.jpg",
+  "__v": 8,
+  "kommentar": []
+},{
+  "_id": {
+    "$oid": "5f6710c5d1be3e2fd0cb2639"
+  },
+  "oprettet": {
+    "$date": "2020-09-04T10:21:10.064Z"
+  },
+  "likes": 7,
+  "titel": "Grove æblestykker",
+  "teaser": "Perfekte til morgenbordet, i madpakken eller bare til at stille den lille sult. Her får du opskriften på lækre grovboller med æble, sirup og fuldkornsmel.",
+  "beskrivelse": "Hæld vand og yoghurt i en stor skål, og opløs gæren heri. Tilsæt salt, sirup og revet æble.<br /><br />Rør først fuldkornsmel og dernæst hvedemel i dejen lidt ad gangen. Ælt dejen længe – gerne på en røremaskine.<br /><br />Stil dejen tildækket et lunt sted, og lad den hæve til dobbelt størrelse.<br /><br />Dyp en stor spiseske i koldt vand, og form dejen skødesløst til boller.<br /><br />Fordel bollerne på to bageplader med bagepapir, og lad dem efterhæve ca. 30 min.<br /><br />Tænd ovnen på 225 gr. Pensl overfladen med sammenpisket æg, og drys med birkes, frø etc.<br /><br />Bag bollerne i ca. 15 min., til de er sprøde. Afkøl bollerne på en bagerist.",
+  "tilberedningstid": 50,
+  "pris": 15,
+  "antal": 10,
+  "kategori": {
+    "$oid": "5f63b9f9702cca37f87ce06f"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f677e2a667d3b63109c0d01"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e34667d3b63109c0d02"
+      },
+      "ingrediens_titel": "Yoghurt",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e42667d3b63109c0d03"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e64667d3b63109c0d04"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e73667d3b63109c0d05"
+      },
+      "ingrediens_titel": "Maltsirup",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e84667d3b63109c0d06"
+      },
+      "ingrediens_titel": "Revet æble",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677e95667d3b63109c0d07"
+      },
+      "ingrediens_titel": "Fuldkornshvedemel",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677ea0667d3b63109c0d08"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 400,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677eb7667d3b63109c0d09"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    }
+  ],
+  "image": "aeblestykker.jpg",
+  "__v": 12,
+  "kommentar": [
+    {
+      "$oid": "5f6f86dc4420357e2070c965"
+    },
+    {
+      "$oid": "5f6fac9e281d062c803fb976"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f671146d1be3e2fd0cb263a"
+  },
+  "oprettet": {
+    "$date": "2020-09-04T07:02:21.064Z"
+  },
+  "likes": 12,
+  "titel": "Håndværker",
+  "teaser": "Når vi en sjælden gang køber morgenbrød hos bageren, så skal jeg altid have en håndværker, fordi jeg elsker det tykke lag med blå birkes ovenpå. Jeg har faktisk aldrig tænkt på at bage håndværkere selv. Havde ligesom en forventning om, at det aldrig ville kunne blive ligeså godt som dem fra bageren. Til jul fik jeg Mette Blomsterberg nye bog “Blomsterbergs skønne klassikere” og den byder på flere opskrifter på morgenbrød. Så sidste weekend tænkte jeg, nu skal det være. Nu vil jeg prøve at bage håndværkere selv, og det blev en succes!",
+  "beskrivelse": "Ingredienserne er ikke ligefrem noget, der vil ruinere dig. Tværtimod! Tænk på, at en håndværker koster ca 5 kr hos bageren, og det er egentlig en skandale, fordi de indeholder en bitte smule gær, vand, salt, mel og olie. Det kan højst koste dig en flad tier, at lave denne portion på 12-15 stk. Når de ovenikøbet bliver så gode, så er der ingen undskyldning for at servere hjemmebragt brød mere.<br /><br />Vær opmærksom på at dejen skal koldthæve i køleskab i ca 8-10 timer.<br /><br />Smuldr gæren i en skålen – brug gerne en røremaskine – Tilsæt det kolde vand og opløs gæren. Start med at tilsætte salt og KUN 350 g hvedemel i første omgang. Her vil du sikkert opleve, at dejen er meget flydende. Rør olien i og tilsæt forsigtigt lidt mere mel. Jeg gjorde faktisk det, at jeg hældte dejen ud på køkkenbordet, for at være sikker på at dejen ikke fik for meget mel. Det er meget vigtigt, at dejen er let og smidig. Ellers risikerer man at få nogle hårde og tørre håndværkere. Så jeg æltede videre med hånden indtil dejen lige præcis var mættet. Den var stadig en smule klistret, og meget let. Der på smed jeg den ned i røremaskinen igen, og den æltede den i ca 5 min. Nu stiller du dejen i køleskabet, og lader den dejen hæve til næste morgen.<br /><br />Nu tager du dejen ud af køleskabet, ælter den og tilsætter måske lidt mere mel, så den kan slippe bordet.  Nu ruller du den ud til en kvadrat med en tykkelse på 1½-2 cm. (Her stiller Blomsterberg så kvadraten i fryseren! Det gjorde jeg ikke. Det havde jeg ikke tid til, og forstod heller ikke hvorfor jeg skulle gøre det? Måske er der nogen af jer læsere, der kan lære mig hvorfor det er en god ide?) Jeg fik 13 stk. håndværkere ud af denne portion, og jeg synes de havde en perfekt størrelse. Pensl kvadraten godt med vand og drys en masse blå birkes på og skær med en skarp kniv håndværkerne ud. Stil dem til hævning på en bageplade tildækket i 1-1½ time. Bag dem på 200 grader varmluft eller 220 alm. ovn i 15-20 min.<br /><br />Jeg havde et par stykker tilovers næste dag, og de var super gode efter en lille tur på brødristeren.<br /><br />Sjovt nok, så jeg “Bagedysten” for første gang nogensinde i onsdags, og så var temaet brød. Det største problem for alle deltagerne var ifølge Blomsterberg, at de ikke havde brugt nok salt og for meget mel! Det er svært at bage, fordi der er så mange faktorer man ikke kan forudse. Nogen gange lykkes det overmåde godt, og andre gange står man med et usselt fladt og kedeligt brød. Men det er jo lige netop det der er sjovt og udfordrende, synes jeg. Når det så lykkes så godt, som de her håndværkere gjorde, så sværger jeg aldrig at købe bagerbrød mere (lige indtil næste gang jeg står i Lagkagehuset…).",
+  "tilberedningstid": 50,
+  "pris": 10,
+  "antal": 10,
+  "kategori": {
+    "$oid": "5f63b9f9702cca37f87ce06f"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f677f0f667d3b63109c0d0a"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 15,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677f24667d3b63109c0d0b"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 4,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677f36667d3b63109c0d0c"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 400,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677f47667d3b63109c0d0d"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 2,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677f5b667d3b63109c0d0e"
+      },
+      "ingrediens_titel": "Olie",
+      "maengde": 0.25,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677f6a667d3b63109c0d0f"
+      },
+      "ingrediens_titel": "Vand til pensling",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    }
+  ],
+  "image": "haandvaerkere.jpg",
+  "__v": 7,
+  "kommentar": [
+    {
+      "$oid": "5f6f82d14420357e2070c963"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6711fcd1be3e2fd0cb263b"
+  },
+  "oprettet": {
+    "$date": "2020-09-12T15:46:15.064Z"
+  },
+  "likes": 3,
+  "titel": "Hjemmebagt brød med kvæder",
+  "teaser": "Kvæder er måske ikke lige det første, man forbinder med bagværk, men du kan faktisk sagtens tilsætte fintrevet kvæde til denne dej og bage et lækkert grahamsbrød med kvæde.",
+  "beskrivelse": "1. Opløs gæren i det lune vand. Tilsæt salt, sukker, olie og kvæde. Rør grahamsmelet i. Rør hvedemelet i lidt ad gangen.<br /><br />2. Ælt dejen, til den er fast og glat, og lad den hæve under et klæde 15-20 min.<br /><br />3. Slå dejen ned, ælt den let, og del den i to stykker, der formes til brød. Læg dejen i brødforme (950 ml). Lad brødene hæve i formene 15-20 min. under et klæde.<br /><br />4. Klip tre små hak i toppen af hvert brød, og pensl med sammenpisket æg. Bag brødene ved 200 gr. i ca. 20 min. Lad de færdige brød køle af på en bagerist.",
+  "tilberedningstid": 50,
+  "pris": 14,
+  "antal": 10,
+  "kategori": {
+    "$oid": "5f63ba29702cca37f87ce074"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f677f9e667d3b63109c0d10"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f677fb1667d3b63109c0d11"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 4,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f677fc7667d3b63109c0d12"
+      },
+      "ingrediens_titel": "Sukker",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677fd5667d3b63109c0d13"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 0.5,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f677fec667d3b63109c0d14"
+      },
+      "ingrediens_titel": "Rapsolie",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678004667d3b63109c0d15"
+      },
+      "ingrediens_titel": "Fintrevet kvæde uden skræl",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678010667d3b63109c0d16"
+      },
+      "ingrediens_titel": "Grahamsmel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67801a667d3b63109c0d17"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 500,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678030667d3b63109c0d18"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    }
+  ],
+  "image": "hjemmebagt-broed-med-kvaeder.jpg",
+  "__v": 13,
+  "kommentar": []
+},{
+  "_id": {
+    "$oid": "5f67129ad1be3e2fd0cb263c"
+  },
+  "oprettet": {
+    "$date": "2020-09-14T20:09:15.064Z"
+  },
+  "likes": 2,
+  "titel": "Hjemmebagt sønderjysk rugbrød",
+  "teaser": "Bag et lækkert lyst rugbrød uden kerner. Brødet er bagt med surdej, men det kan også laves i en lynversion med kærnemælk og gær.",
+  "beskrivelse": "Dag 1:<br />Rør 2½ dl rugmel sammen med 3 dl lunkent vand (maks. 37 grader) i et patentglas el. lign. (1 liter). Læg låget løst på (uden gummiring), og stil det et lunt sted i 2 dage – rør i det af og til.<br /><br />Dag 3:<br />Rør surdejen igennem, og tilsæt 1 dl rugmel og 1 dl vand. Dæk løst til, og lad det stå i 1 døgn.<br /><br />Dag 4: Gentag dag 3.<br /><br />Dag 5: Surdejen har fine bobler i overfladen og dufter syrligt, og du er klar til at bage.<br /><br />TIP: Den hurtige version Bag uden surdej: Du kan erstatte surdej og vand i opskriften med 1 liter kærnemælk, 2-3 dl vand og 25 g gær<br /><br />Rugbrød:<br />Hæld 5 dl surdej i en røreskål, og gem resten (se tip). Tilsæt de øvrige ingredienser, og rør dejen grundigt i 8-10 min. – gerne på maskine. Dejen skal være fast, men lidt klistret.<br /><br />Dæk skålen med et fugtigt viskestykke, og lad den hæve et lunt sted i 1½-2 timer.<br /><br />Vend dejen ud på et meldrysset bord, og del den i 2 portioner. Ælt dem igennem, og form dem til cylinderformede brød. Læg dem på en bageplade med bagepapir, og prik dem jævnt med en strikkepind eller et træspyd. Pensl dem med vand, og lad dem hæve tildækket i 45-60 min.<br /><br />Varm ovnen op til 250 grader.<br /><br />Pensl brødene med vand, og sæt dem midt i ovnen. Skru straks ned til 200 grader, og bag dem i ca. 1 time. Tjek centrumstemperaturen med et stegetermometer, der skal vise 99 grader.<br /><br />Sæt brødene til afkøling på en rist, og pak dem ind i et rent, hårdt opvredet viskestykke, hvis du ønsker en blød skorpe. <br /><br />Opbevar brødet i fryseposer – og frys evt. brødene i passende portioner.",
+  "tilberedningstid": 3600,
+  "pris": 12,
+  "antal": 2,
+  "kategori": {
+    "$oid": "5f63ba23702cca37f87ce073"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f67805c667d3b63109c0d19"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 1000,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67806c667d3b63109c0d1a"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 12,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f678084667d3b63109c0d1b"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 1,
+      "enhed_forkortet": "pk",
+      "enhed_navn": "Pakke"
+    },
+    {
+      "_id": {
+        "$oid": "5f67809a667d3b63109c0d1c"
+      },
+      "ingrediens_titel": "Grahamsmel",
+      "maengde": 500,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6780af667d3b63109c0d1d"
+      },
+      "ingrediens_titel": "Maltsirup",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6780df667d3b63109c0d1e"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    }
+  ],
+  "image": "hjemmebagt-soenderjysk-rugbroed.jpg",
+  "__v": 8,
+  "kommentar": [
+    {
+      "$oid": "5f6e1b404994a38e5078b800"
+    },
+    {
+      "$oid": "5f6e1b674994a38e5078b801"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f67132bd1be3e2fd0cb263d"
+  },
+  "oprettet": {
+    "$date": "2020-09-16T22:23:15.064Z"
+  },
+  "likes": 22,
+  "titel": "Hjemmebagte krydderboller",
+  "teaser": "Velduftende hjemmebagte krydderboller smager bare rigtig godt og er perfekte på søndagsmorgenbordet.",
+  "beskrivelse": "Lun mælken, til den er fingervarm. Kom mælken i en skål, og udrør gæren heri. Rør æg, sukker og kardemomme i. Kom halvdelen af hvedemelet i, og ælt dejen godt, gerne på en køkkenmaskine 4-5 min. Lad dejen hvile 15. min.<br /><br />Rør salt og det bløde smør i dejen. Tilsæt nu resten af hvedemelet, til dejen lige slipper skålens sider.<br /><br />Kom 1 spsk. olie i en skål, og læg dejen heri. Vend dejen rundt, så den er dækket af et tyndt lag olie.<br /><br />Dæk skålen med husholdningsfilm. Lad dejen hæve ca. 1 time.<br /><br />Form 15 boller. Lad dem efterhæve tildækket med et rent klæde ca. 40 min.<br /><br />Pensl med sammenpisket æg. Bag bollerne ca. 18 min. ved 200 gr.",
+  "tilberedningstid": 25,
+  "pris": 10,
+  "antal": 15,
+  "kategori": {
+    "$oid": "5f63b9f9702cca37f87ce06f"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f67810c667d3b63109c0d1f"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f678118667d3b63109c0d20"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 25,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678126667d3b63109c0d21"
+      },
+      "ingrediens_titel": "Æg",
+      "maengde": 2,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    },
+    {
+      "_id": {
+        "$oid": "5f67813a667d3b63109c0d22"
+      },
+      "ingrediens_titel": "Sukker",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67815d667d3b63109c0d23"
+      },
+      "ingrediens_titel": "Kardemomme",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678170667d3b63109c0d24"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 500,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678181667d3b63109c0d25"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67819a667d3b63109c0d26"
+      },
+      "ingrediens_titel": "Smør",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6781b4667d3b63109c0d27"
+      },
+      "ingrediens_titel": "Olie",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6781c5667d3b63109c0d28"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    }
+  ],
+  "image": "hjemmebagte-krydderboller.jpg",
+  "__v": 11,
+  "kommentar": [
+    {
+      "$oid": "5f6f839c4420357e2070c964"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6713b6d1be3e2fd0cb263e"
+  },
+  "oprettet": {
+    "$date": "2020-09-16T23:46:15.064Z"
+  },
+  "likes": 17,
+  "titel": "Hvidløgsflutes med krydderurter",
+  "teaser": "Uhm, hvidløgsbrød er det perfekte tilbehør til det meste.",
+  "beskrivelse": "Kryddersmør: Alt efter humør og udvalg bruger jeg fx persille/oregano/basilikum/timian, estrago /persille/hvidløg, kørvel/dild, citronmelisse/citronverbena og/eller mynte. Skyl og slyng krydderurterne, og finthak dem. Bland dem i det bløde smør, fintriv hvidløg og citronskal i. Smag til med salt og peber.<br /><br />Brød: Rør gær og honning ud i vandet, og lad det stå 10 minutter, så gæren vågner. Bland derefter eddike, olie, salt og mel i, og ælt dejen igennem i 5-10 minutter, allerhelst på en røremaskine. Hold lidt igen med hvedemelet, og tilsæt lidt mere mel til sidst om nødvendigt. Lad dejen stå i 10 minutter, og rør/ælt den så kraftigt igennem igen et halvt minuts tid. Dæk skålen til med et fugtigt viskestykke, og lad dejen hæve 2-3 timer til minimum dobbelt størrelse.<br /><br />Del dejen i 3 stykker, og form dem til lange flutes. Læg dem på en bageplade beklædt med bagepapir. Snit flutene på skrå med en skarp kniv, ca. ½ centimeter dybt. Lad brødene hæve tildækket i 30-45 minutter. Lige inden du bager flutene, skær da krydderurtesmørret i skiver, så du har det antal, der passer til de snit, du har lavet. Bag flutene i en 220 °C varm ovn i ca. 10 minutter, tag dem ud, skær dybere ned i de snit, du har lavet – dog uden at skære helt igennem – og kom smørret ned i hullerne. Kom dem tilbage i ovnen, og bag dem færdige i ca. 5 minutter. Brødet smager klart bedst friskt og lunt, men kan fint holde sig et par dage og lunes i ovnen.<br /><br />Tip! Brug aldrig lunkent vand fra vandhanen, idet det indeholder en masse bakterier. Bland kogt vand med koldt vand fra hanen. Den mest optimale temperatur er omkring 37 °C.<br /><br />Tip! Brødet bliver mest luftigt og originalt, hvis du bruger ren hvedemel, det italienske tipo 00. Det er ikke det sundeste og mest fordøjelige valg, så derfor bruger jeg en blanding af rug-, spelt- og hvedemel.",
+  "tilberedningstid": 80,
+  "pris": 16,
+  "antal": 3,
+  "kategori": {
+    "$oid": "5f63ba0b702cca37f87ce070"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f678c25667d3b63109c0d29"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c39667d3b63109c0d2a"
+      },
+      "ingrediens_titel": "Flydende honning",
+      "maengde": 2,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c47667d3b63109c0d2b"
+      },
+      "ingrediens_titel": "Æblecidereddike",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c5b667d3b63109c0d2c"
+      },
+      "ingrediens_titel": "Fint himalayasalt",
+      "maengde": 1.5,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c71667d3b63109c0d2d"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 150,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c7d667d3b63109c0d2e"
+      },
+      "ingrediens_titel": "Speltmel",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c88667d3b63109c0d2f"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 400,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678c95667d3b63109c0d30"
+      },
+      "ingrediens_titel": "Krydderurtesmør",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    }
+  ],
+  "image": "hvidloegsflutes-med-krydderurter.jpg",
+  "__v": 9,
+  "kommentar": [
+    {
+      "$oid": "5f6fad1b281d062c803fb977"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f671434d1be3e2fd0cb263f"
+  },
+  "oprettet": {
+    "$date": "2020-09-17T11:46:15.064Z"
+  },
+  "likes": 25,
+  "titel": "Lette flutes",
+  "teaser": "De lækre flutes mætter ikke for voldsomt og passer derfor godt til de fleste hovedretter, supper og buffetter.",
+  "beskrivelse": "1. Hæld den lunede mælk over smuldret gær, olie og salt i dejskålen. Pisk omkring halvdelen af melet i væsken, og ælt derefter så meget mel i dejen, som den kan tage. Den skal være smidig, men ikke klistret. Lad den hæve en god halv time.<br /><br />2. Slå dejen ned og del den. Vil du have brødene meget akkurate, kan du veje dejen, så de bliver lige store. Form dejen til flute ved at klappe den ud i en firkant, der rulles stramt sammen, glattes og lægges til efterhævning. Fortsæt til al dejen er brugt, dæk brødene til, og lad dem efterhæve ca. 25 min.<br /><br />3. Pensl dem med æg, og drys efter smag. Giv hvert brød 2 dybe, lange snit med en hobbykniv eller en anden superskarp kniv, og stil dem straks i ovnen på øverste rille. Bages ca. 13 min. ved 210 gr.",
+  "tilberedningstid": 60,
+  "pris": 10,
+  "antal": 8,
+  "kategori": {
+    "$oid": "5f63ba0b702cca37f87ce070"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f678d41667d3b63109c0d31"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f678d4f667d3b63109c0d32"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 25,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678d63667d3b63109c0d33"
+      },
+      "ingrediens_titel": "Olie",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678d74667d3b63109c0d34"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1.5,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678d85667d3b63109c0d35"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 450,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678d98667d3b63109c0d36"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    }
+  ],
+  "image": "lette-flutes.jpg",
+  "__v": 9,
+  "kommentar": [
+    {
+      "$oid": "5f6dcbec1a94f80638d95fe5"
+    },
+    {
+      "$oid": "5f6e1b8c4994a38e5078b802"
+    },
+    {
+      "$oid": "5f6e1bbd4994a38e5078b803"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6714ded1be3e2fd0cb2640"
+  },
+  "oprettet": {
+    "$date": "2020-09-18T14:46:15.064Z"
+  },
+  "likes": 14,
+  "titel": "Morgenhorn",
+  "teaser": "Det er sød musik for smagsløgene at bage hjemmelavede horn, prøv disse lækre morgenhorn.",
+  "beskrivelse": "Smelt smørret i en kasserolle eller i mikroovn. Tilsæt mælk, og hæld væsken over smuldret gær, salt og sukker. Tilsæt det meste af melet, og ælt dejen igennem. Lad den hæve ca. 40 min.<br /><br />Ælt dejen let, og tril den til en kugle. Sigt mel ud over bordet og dejen, og tryk og rul den ud i en cirkel, der måler 50-55 cm i diameter. Tjek jævnligt, om den slipper bordet, eller om der skal mere mel til.<br /><br />Del dejen i 16 kiler, og rul dem sammen. Sæt dem til efterhævning i ca. 40 min. på bagepapir på en bageplade. Pensl med sammenpisket æg, kom evt. lidt drys på, og bag hornene ved 220 gr. i ca. 13 min.",
+  "tilberedningstid": 60,
+  "pris": 12,
+  "antal": 8,
+  "kategori": {
+    "$oid": "5f63b9f9702cca37f87ce06f"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f678de8667d3b63109c0d37"
+      },
+      "ingrediens_titel": "Smør",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e01667d3b63109c0d38"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e26667d3b63109c0d39"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 25,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e37667d3b63109c0d3a"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e49667d3b63109c0d3b"
+      },
+      "ingrediens_titel": "Sukker",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e5f667d3b63109c0d3c"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 450,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f678e71667d3b63109c0d3d"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    }
+  ],
+  "image": "morgenhorn.jpg",
+  "__v": 9,
+  "kommentar": [
+    {
+      "$oid": "5f6f884c4420357e2070c966"
+    },
+    {
+      "$oid": "5f6f88e54420357e2070c967"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f67163fd1be3e2fd0cb2641"
+  },
+  "oprettet": {
+    "$date": "2020-09-19T20:46:15.064Z"
+  },
+  "likes": 6,
+  "titel": "Mysliboller",
+  "teaser": "Grove og søde på samme tid - her får du opskriften på lækre og saftige mysliboller med nødder, rosiner, dadler, havregryn og solsikkekerner.",
+  "beskrivelse": "Rør vand og mel sammen, og lad det stå tildækket på køkkenbordet 3-4 dage. Surdejen er derefter klar til brug.<br /><br />Bland havregryn med speltflager, solsikkekerner, hakkede valnødder, rosiner og dadler.<br /><br />Kom vand og surdej i en skål, og tilsæt salt, honning og mysliblandingen, og rør godt rundt.<br /><br />Ælt nu hvedemel i lidt ad gangen, til dejen er glat og smidig. Stil dejen til hævning et lunt sted i ca. 2 timer.<br /><br />Del dejen i 12 stykker, og form til boller. Læg dem på et stykke bagepapir, og lad dem efterhæve i ca. 1 time. 6.<br /><br />Tænd ovnen på 225 gr., og lad en bageplade blive i ovnen. Træk forsigtigt boller og bagepapir over på den varme bageplade, og bag i ca. 20 min.<br /><br />Afkøl bollerne på en bagerist.",
+  "tilberedningstid": 30,
+  "pris": 14,
+  "antal": 12,
+  "kategori": {
+    "$oid": "5f63ba30702cca37f87ce075"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f6791a6667d3b63109c0d49"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791b7667d3b63109c0d4a"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791c7667d3b63109c0d4b"
+      },
+      "ingrediens_titel": "Grovvalsede havregryn",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791d6667d3b63109c0d4c"
+      },
+      "ingrediens_titel": "Speltflager",
+      "maengde": 25,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791e6667d3b63109c0d4d"
+      },
+      "ingrediens_titel": "Solsikkekerner",
+      "maengde": 20,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791f0667d3b63109c0d4e"
+      },
+      "ingrediens_titel": "Valnødder",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6791fb667d3b63109c0d4f"
+      },
+      "ingrediens_titel": "Rosiner",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679202667d3b63109c0d50"
+      },
+      "ingrediens_titel": "Hakkede dadler",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679215667d3b63109c0d51"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 2.5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679223667d3b63109c0d52"
+      },
+      "ingrediens_titel": "Surdej",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679234667d3b63109c0d53"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679243667d3b63109c0d54"
+      },
+      "ingrediens_titel": "Flydende honning",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    }
+  ],
+  "image": "mysliboller.jpg",
+  "__v": 13,
+  "kommentar": [
+    {
+      "$oid": "5f6f89964420357e2070c968"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6716ded1be3e2fd0cb2642"
+  },
+  "oprettet": {
+    "$date": "2020-09-19T23:56:15.064Z"
+  },
+  "likes": 3,
+  "titel": "Rugbrødsbolle",
+  "teaser": "Lækre bløde rugbrødsboller med masser af gode frø og kerner.",
+  "beskrivelse": "Rør vand og mel sammen, og lad det stå tildækket på køkkenbordet 3-4 dage.<br /><br />Rør kærnemælk med øl, surdej og sirup. Tilsæt salt, kakaopulver, kerner, frø og fuldkornsmel. Rør dejen godt – helst på en røremaskine, og tilsæt gradvist rugmel.<br /><br />Fordel dejen i muffinforme, og stil på køl til næste dag.<br /><br />Tag formen ud, og lad den stå på bordet ca. 1 time, inden bollerne bages ved 180 gr. i ca. 30 min.",
+  "tilberedningstid": 30,
+  "pris": 12,
+  "antal": 10,
+  "kategori": {
+    "$oid": "5f63ba30702cca37f87ce075"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f679287667d3b63109c0d55"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679299667d3b63109c0d56"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792a9667d3b63109c0d57"
+      },
+      "ingrediens_titel": "Kærnemælk",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792b7667d3b63109c0d58"
+      },
+      "ingrediens_titel": "Mørk øl",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792bf667d3b63109c0d59"
+      },
+      "ingrediens_titel": "Surdej",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792d0667d3b63109c0d5a"
+      },
+      "ingrediens_titel": "Maltsirup",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792e4667d3b63109c0d5b"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6792f7667d3b63109c0d5c"
+      },
+      "ingrediens_titel": "Kakaopulver",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67930e667d3b63109c0d5d"
+      },
+      "ingrediens_titel": "Skårne rugkerner",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679321667d3b63109c0d5e"
+      },
+      "ingrediens_titel": "Hørfrø",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67932e667d3b63109c0d5f"
+      },
+      "ingrediens_titel": "Solsikkekerner",
+      "maengde": 25,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67933c667d3b63109c0d60"
+      },
+      "ingrediens_titel": "Chiafrø",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67934d667d3b63109c0d61"
+      },
+      "ingrediens_titel": "Fuldkornshvedemel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67935a667d3b63109c0d62"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 150,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    }
+  ],
+  "image": "rugbroedsboller.jpg",
+  "__v": 14
+},{
+  "_id": {
+    "$oid": "5f67175ed1be3e2fd0cb2643"
+  },
+  "oprettet": {
+    "$date": "2020-09-20T07:46:15.064Z"
+  },
+  "likes": 7,
+  "titel": "Rugbrødsboller med chokolade",
+  "teaser": "Er du typen, der altid bager rugbrød, er det nemt at tage en klat dej fra og forvandle dem til rugbrødsboller. Har du ikke surdej på køl, kan du bruge denne opskrift. Er du totalt til hurtige løsninger, så vælg en anstændig rugbrødsblanding, og knald chokolade og nødder i den.",
+  "beskrivelse": "1. Lun vandet i din elkoger eller på komfuret til cirka 37 grader. Rør gæren ud i det lune vand, og tilsæt kærnemælk, salt og honning.<br /><br />2. Kom rugkerner, hørfrø og chiafrø i. Kom melet i lidt ad gangen – det er ikke sikkert, du har behov for det hele. Hak chokolade og nødder, og vend dem i dejen. Lad dejen hæve lunt i ½ time.<br /><br /> GraphicInTextBlock<br />3. Form dejen med våde hænder til aflange rugboller. Vend dem i en blanding af hørfrø og chiafrø, og sæt dem på bagepapir på en bageplade.<br /><br />4. Lad dem hæve i yderligere ½ time, og bag dem bagefter ved 175 grader i cirka 30 minutter. Lad dem køle og nyd dem.",
+  "tilberedningstid": 100,
+  "pris": 15,
+  "antal": 25,
+  "kategori": {
+    "$oid": "5f63ba30702cca37f87ce075"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f6793b0667d3b63109c0d63"
+      },
+      "ingrediens_titel": "Lunkent vand",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6793c0667d3b63109c0d64"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 30,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6793d2667d3b63109c0d65"
+      },
+      "ingrediens_titel": "Kærnemælk",
+      "maengde": 4,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6793e5667d3b63109c0d66"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6793f5667d3b63109c0d67"
+      },
+      "ingrediens_titel": "Flydende honning",
+      "maengde": 1,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67940c667d3b63109c0d68"
+      },
+      "ingrediens_titel": "Skårne rugkerner",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679422667d3b63109c0d69"
+      },
+      "ingrediens_titel": "Chiafrø",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67942b667d3b63109c0d6a"
+      },
+      "ingrediens_titel": "Hørfrø",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679440667d3b63109c0d6b"
+      },
+      "ingrediens_titel": "Fuldkornshvedemel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67944e667d3b63109c0d6c"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67945c667d3b63109c0d6d"
+      },
+      "ingrediens_titel": "Groft rugmel",
+      "maengde": 300,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67946c667d3b63109c0d6e"
+      },
+      "ingrediens_titel": "Mørk chokolade",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679477667d3b63109c0d6f"
+      },
+      "ingrediens_titel": "Hasselnødder",
+      "maengde": 100,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    }
+  ],
+  "image": "rugbroedsboller-med-chokolade.jpg",
+  "__v": 13
+},{
+  "_id": {
+    "$oid": "5f671840d1be3e2fd0cb2644"
+  },
+  "oprettet": {
+    "$date": "2020-09-21T17:40:15.064Z"
+  },
+  "likes": 7,
+  "titel": "Rugkernebrød med abrikos og mandler",
+  "teaser": "Groft og knasende fuld af nødder, kerner og smag.",
+  "beskrivelse": "1) Stil rugkerner og hørfrø i blød i det kogende vand i 15 minutter.<br /><br />2) Hak cashewnødderne, og snit abrikoserne i strimler.<br /><br /> GraphicInTextBlock<br />3) Rør gæren helt ud i vandet, og tilsæt olie, skyr, salt, mandelmel og rugmel.<br /><br />4) Hæld vandet fra rugkerner og hørfrø, og tilsæt dem til dejen. Rør dejen godt i igennem.<br /><br />5) Fordel dejen i formen, og glat den ud med en våd hånd. Prik med en gaffel i overfladen, og stil den til hævning i rugbrødsformen i ca. 3 timer.<br /><br />6) Bag rugbrødet midt i ovnen ved 200 grader i først 1 time, dæk så brødet med stanniol, og lad det bage 1 time mere.<br /><br />7) Når brødet er færdigt, pakkes det ind i et vådt viskestykke med et tørt håndklæde omkring. Stil det på køl eller til side til dagen efter. På den måde bevarer det sin saftighed og er nemt at skære ud.",
+  "tilberedningstid": 120,
+  "pris": 15,
+  "antal": 1,
+  "kategori": {
+    "$oid": "5f63ba23702cca37f87ce073"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f6794b4667d3b63109c0d70"
+      },
+      "ingrediens_titel": "Skårne rugkerner",
+      "maengde": 60,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6794c6667d3b63109c0d71"
+      },
+      "ingrediens_titel": "Hørfrø",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6794d1667d3b63109c0d72"
+      },
+      "ingrediens_titel": "Kogende vand",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6794e7667d3b63109c0d73"
+      },
+      "ingrediens_titel": "Cashewnødder",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6794f8667d3b63109c0d74"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 4.5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679508667d3b63109c0d75"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 5,
+      "enhed_forkortet": "pk",
+      "enhed_navn": "Pakker"
+    },
+    {
+      "_id": {
+        "$oid": "5f679524667d3b63109c0d76"
+      },
+      "ingrediens_titel": "Rapsolie",
+      "maengde": 4,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679532667d3b63109c0d77"
+      },
+      "ingrediens_titel": "Skyr",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    }
+  ],
+  "image": "rugkernebroed-med-abrikos-og-mandler.jpg",
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "5f6718c0d1be3e2fd0cb2646"
+  },
+  "oprettet": {
+    "$date": "2020-09-21T16:32:15.064Z"
+  },
+  "likes": 10,
+  "titel": "Saftige gulerodsboller",
+  "teaser": "I disse saftige gulerodsboller er gulerødderne med til at give en svampet konsistens og en flot orange farve. Bollerne kan bruges til f.eks. morgenmad, til madpakken eller som en lille snack.",
+  "beskrivelse": "Varm mælk og vand i en gryde, til det er fingervarmt (ca. 37 grader).<br /><br />Smuldr gæren i en skål, og tilsæt det lune mælk og vand. Rør rundt til gæren er opløst. Bland salt og honning i.<br /><br />Skræl gulerødderne, og riv dem groft på et rivejern. Bland det sammen med væsken. <br /><br />Kom havregryn og fuldkornshvedemel i, og kom derefter hvedemelet i lidt efter lidt. Ælt dejen godt igennem i hånden eller med en røremaskine. Tilpas mængden af mel, så dejen forbliver let klistret – den bliver mindre klistret efter hævning.<br /><br />Læg et viskestykke over dejen, og lad den hæve til dobbelt størrelse i ca. 1 times tid.<br /><br />Del dejen i 16 lige store stykker, og form dem til boller. Brug lidt ekstra mel, hvis dejen er for klistret – brug dog ikke for meget, da bollerne så bliver tørre.<br /><br />Læg bollerne på en bradepande med bagepapir, og lad dem hæve tildækket i ca. 30 minutter.<br /><br />Pensl bollerne med et pisket æg, og bag dem i ca. 15 minutter ved 220 grader.",
+  "tilberedningstid": 35,
+  "pris": 15,
+  "antal": 16,
+  "kategori": {
+    "$oid": "5f63ba30702cca37f87ce075"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f679571667d3b63109c0d78"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679578667d3b63109c0d79"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 1,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679587667d3b63109c0d7a"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679599667d3b63109c0d7b"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6795b3667d3b63109c0d7c"
+      },
+      "ingrediens_titel": "Flydende honning",
+      "maengde": 0.5,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f6795c4667d3b63109c0d7d"
+      },
+      "ingrediens_titel": "Gulerødder",
+      "maengde": 250,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6795d5667d3b63109c0d7e"
+      },
+      "ingrediens_titel": "Havregryn",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    }
+  ],
+  "image": "saftige-gulerodsboller.jpg",
+  "__v": 8,
+  "kommentar": [
+    {
+      "$oid": "5f6e1bf54994a38e5078b804"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f671954d1be3e2fd0cb2647"
+  },
+  "oprettet": {
+    "$date": "2020-09-22T20:46:15.064Z"
+  },
+  "likes": 29,
+  "titel": "Stor durumbolle",
+  "teaser": "Fordejen røres sammen aftenen før, sådan at den står 6-10 timer, inden den gøres færdig.<br /><br />Næste morgen tilsættes pizzamel gradvist, og dejen æltes færdig. Dejen drysses med rigeligt durummel og vendes ud på bordet, hvor den deles i to, formes til kugler og klappes ud i ca. 2 cm tykkelse, der lægges til hævning, mens ovnen varmer op til 175 gr.<br /><br />Brødene bages ca. 25 min.",
+  "beskrivelse": "Varm mælk og vand i en gryde, til det er fingervarmt (ca. 37 grader).<br /><br />Smuldr gæren i en skål, og tilsæt det lune mælk og vand. Rør rundt til gæren er opløst. Bland salt og honning i.<br /><br />Skræl gulerødderne, og riv dem groft på et rivejern. Bland det sammen med væsken. <br /><br />Kom havregryn og fuldkornshvedemel i, og kom derefter hvedemelet i lidt efter lidt. Ælt dejen godt igennem i hånden eller med en røremaskine. Tilpas mængden af mel, så dejen forbliver let klistret – den bliver mindre klistret efter hævning.<br /><br />Læg et viskestykke over dejen, og lad den hæve til dobbelt størrelse i ca. 1 times tid.<br /><br />Del dejen i 16 lige store stykker, og form dem til boller. Brug lidt ekstra mel, hvis dejen er for klistret – brug dog ikke for meget, da bollerne så bliver tørre.<br /><br />Læg bollerne på en bradepande med bagepapir, og lad dem hæve tildækket i ca. 30 minutter.<br /><br />Pensl bollerne med et pisket æg, og bag dem i ca. 15 minutter ved 220 grader.",
+  "tilberedningstid": 50,
+  "pris": 12,
+  "antal": 2,
+  "kategori": {
+    "$oid": "5f64a5afd2036095b450c291"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f679629667d3b63109c0d7f"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 3,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f679637667d3b63109c0d80"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 12,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67964a667d3b63109c0d81"
+      },
+      "ingrediens_titel": "Olie",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679670667d3b63109c0d83"
+      },
+      "ingrediens_titel": "Durummel",
+      "maengde": 500,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    }
+  ],
+  "image": "stor-durumbolle.jpg",
+  "__v": 10,
+  "kommentar": [
+    {
+      "$oid": "5f6e1c174994a38e5078b805"
+    },
+    {
+      "$oid": "5f6e1c394994a38e5078b806"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6719c7d1be3e2fd0cb2648"
+  },
+  "oprettet": {
+    "$date": "2020-09-22T23:46:15.064Z"
+  },
+  "likes": 33,
+  "titel": "Svenske snegle med kanel og kardemomme",
+  "teaser": "Skønne kanelsnegle med masser af kanel og kardemomme - de lækre snaskede snegle smager næsten lige som de svenske kanelbullar.",
+  "beskrivelse": "Smelt smørret i en kasserolle, tilsæt mælken, og varm det op, til det er lunkent, ca. 37 grader. Tilsæt gæren og rør, til den er opløst.<br /><br />Tilsæt ægget sammen med sukker, salt, kardemomme og to tredjedele af melet, og rør dejen glat. Arbejd det resterende mel i lidt ad gangen, og ælt grundigt, til du har en smidig og blank dej. Pas på med ikke at tilsætte yderligere mel – dejen vil samle sig og begynde at slippe kanterne, når du får æltet den godt.<br /><br />Sæt dejen til hævning til dobbelt størrelse (det tager ca. 1½ time) i en skål med et fugtigt klæde over, og lav imens remoncen ved at røre smør, sukker og kanel sammen, til det er cremet i konsistensen.<br /><br />Når dejen er færdighævet, tages den ud på bordet til endnu en hurtig omgang æltning. Dejen er færdigæltet, når den slipper både bord og hænder.<br /><br />Tænd ovnen for 225 grader. Rul den derefter ud til et rektangel på ca. 25 x 40 cm og smør remoncen ud over. Rul dejen sammen på den lange side, og skær sneglene ud i ca. 3 cm tykkelse.<br /><br />Læg dem med 2-3 cm imellem på en bradepande med bagepapir, og lad dem hæve under et klæde i 45 min, til de næsten rører hinanden. Pensl med et sammenpisket æg, og bag sneglene i 12-15 minutter, eller til de er gyldne og flotte at se på.<br /><br />Lad dem køle ned til stuetemperatur, før du pynter dem med glasur eller bare serverer, dem helt som de er.",
+  "tilberedningstid": 60,
+  "pris": 15,
+  "antal": 20,
+  "kategori": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f6796a6667d3b63109c0d84"
+      },
+      "ingrediens_titel": "Smør",
+      "maengde": 150,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6796b4667d3b63109c0d85"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 5,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6796c1667d3b63109c0d86"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 40,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6796de667d3b63109c0d87"
+      },
+      "ingrediens_titel": "Æg sammenpisket",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    },
+    {
+      "_id": {
+        "$oid": "5f6796f7667d3b63109c0d88"
+      },
+      "ingrediens_titel": "Sukker",
+      "maengde": 3,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67970c667d3b63109c0d89"
+      },
+      "ingrediens_titel": "Kardemomme stødt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679720667d3b63109c0d8a"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 800,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679735667d3b63109c0d8b"
+      },
+      "ingrediens_titel": "Æg til pensling",
+      "maengde": 1,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    },
+    {
+      "_id": {
+        "$oid": "5f679745667d3b63109c0d8c"
+      },
+      "ingrediens_titel": "Smør blødt",
+      "maengde": 200,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67975b667d3b63109c0d8d"
+      },
+      "ingrediens_titel": "Rørsukker",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f67976c667d3b63109c0d8e"
+      },
+      "ingrediens_titel": "Kanel",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    }
+  ],
+  "image": "svenske-snegle.jpg",
+  "__v": 38,
+  "kommentar": [
+    {
+      "$oid": "5f6e169d20994b75d4294daa"
+    },
+    {
+      "$oid": "5f6e177d727e724e3875ec67"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f678f71667d3b63109c0d3e"
+  },
+  "oprettet": {
+    "$date": "2020-09-23T06:00:02.503Z"
+  },
+  "likes": 27,
+  "titel": "Morgenhorn med marcipan",
+  "teaser": "Søde, lette og luftige er disse horn. De egner sig fint til frysning og kan derfor nemt lunes til morgenbordet.",
+  "beskrivelse": "Smelt smørret, tilsæt mælken, og tag gryden fra varmen. Når væsken er fingervarm, hældes den i dejskålen sammen med 1 æg og 1 æggeblomme (gem hviden).<br /><br />Smuldret gær, sukker og salt tilsættes, og blandingen røres jævn.<br /><br />Melet tilsættes gradvis, og dejen, der skal være temmelig lind, æltes igennem. Den hæver ca. 45 min, vendes ud på bordet og æltes let.<br /><br />Rul dejen ud i en cirkel så stor som muligt, gerne i køkkenbordets bredde (55-60 cm).<br /><br />Lad den hvile 5-10 min., inden den skæres i 16 kiler.<br /><br />Marcipanen røres blød med halvdelen af den tiloversblevne æggehvide og røres jævn med sukkeret. En klat lægges på hver kile og de rulles sammen og lægges på pladen.<br /><br />Hornene efterhæver ca. 30 min., pensles med resten af æggehviden, drysses med tesukker og bages ved 210 gr. i 12-14 min.",
+  "tilberedningstid": 70,
+  "pris": 20,
+  "antal": 16,
+  "kategori": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f6790ca667d3b63109c0d3f"
+      },
+      "ingrediens_titel": "Mælk",
+      "maengde": 2,
+      "enhed_forkortet": "dl",
+      "enhed_navn": "Deciliter"
+    },
+    {
+      "_id": {
+        "$oid": "5f6790d8667d3b63109c0d40"
+      },
+      "ingrediens_titel": "Smør",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f6790e5667d3b63109c0d41"
+      },
+      "ingrediens_titel": "Æg",
+      "maengde": 2,
+      "enhed_forkortet": "stk",
+      "enhed_navn": "Styk"
+    },
+    {
+      "_id": {
+        "$oid": "5f6790f2667d3b63109c0d42"
+      },
+      "ingrediens_titel": "Gær",
+      "maengde": 40,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679103667d3b63109c0d43"
+      },
+      "ingrediens_titel": "Vand",
+      "maengde": 3,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f67911c667d3b63109c0d44"
+      },
+      "ingrediens_titel": "Salt",
+      "maengde": 1,
+      "enhed_forkortet": "tsk",
+      "enhed_navn": "Teskefuld"
+    },
+    {
+      "_id": {
+        "$oid": "5f679135667d3b63109c0d45"
+      },
+      "ingrediens_titel": "Hvedemel",
+      "maengde": 450,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679142667d3b63109c0d46"
+      },
+      "ingrediens_titel": "Rå marcipan",
+      "maengde": 75,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f67914c667d3b63109c0d47"
+      },
+      "ingrediens_titel": "Sukker",
+      "maengde": 50,
+      "enhed_forkortet": "g",
+      "enhed_navn": "Gram"
+    },
+    {
+      "_id": {
+        "$oid": "5f679160667d3b63109c0d48"
+      },
+      "ingrediens_titel": "Tesukker til drys",
+      "maengde": 1,
+      "enhed_forkortet": "håndfuld",
+      "enhed_navn": "Håndfuld"
+    }
+  ],
+  "image": "morgenhorn_med_marcipan.jpg",
+  "__v": 16,
+  "kommentar": [
+    {
+      "$oid": "5f6e1c584994a38e5078b807"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6f20cf4a93908768bab1d9"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T11:04:14.950Z"
+  },
+  "likes": 0,
+  "kommentar": [],
+  "titel": "Testprodukt med marcipan",
+  "teaser": "Søde, lette og luftige er disse horn. De egner sig fint til frysning og kan derfor nemt lunes til morgenbordet.",
+  "beskrivelse": "Smelt smørret, tilsæt mælken, og tag gryden fra varmen. Når væsken er fingervarm, hældes den i dejskålen sammen med 1 æg og 1 æggeblomme (gem hviden).<br /><br />Smuldret gær, sukker og salt tilsættes, og blandingen røres jævn.<br /><br />Melet tilsættes gradvis, og dejen, der skal være temmelig lind, æltes igennem. Den hæver ca. 45 min, vendes ud på bordet og æltes let.<br /><br />Rul dejen ud i en cirkel så stor som muligt, gerne i køkkenbordets bredde (55-60 cm).<br /><br />Lad den hvile 5-10 min., inden den skæres i 16 kiler.<br /><br />Marcipanen røres blød med halvdelen af den tiloversblevne æggehvide og røres jævn med sukkeret. En klat lægges på hver kile og de rulles sammen og lægges på pladen.<br /><br />Hornene efterhæver ca. 30 min., pensles med resten af æggehviden, drysses med tesukker og bages ved 210 gr. i 12-14 min.",
+  "tilberedningstid": 70,
+  "pris": 20,
+  "antal": 16,
+  "kategori": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "ingredienser": [],
+  "image": "stor-durumbolle.jpg",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f70d41f26a63a5b508a6933"
+  },
+  "oprettet": {
+    "$date": "2020-09-27T18:02:41.420Z"
+  },
+  "likes": 0,
+  "kommentar": [],
+  "titel": "Svenske snegle med kanel og kardemomme",
+  "teaser": "Skønne kanelsnegle med masser af kanel og kardemomme - de lækre snaskede snegle smager næsten lige som de svenske kanelbullar.",
+  "beskrivelse": "Smelt smørret i en kasserolle, tilsæt mælken, og varm det op, til det er lunkent, ca. 37 grader. Tilsæt gæren og rør, til den er opløst.<br /><br />Tilsæt ægget sammen med sukker, salt, kardemomme og to tredjedele af melet, og rør dejen glat. Arbejd det resterende mel i lidt ad gangen, og ælt grundigt, til du har en smidig og blank dej. Pas på med ikke at tilsætte yderligere mel – dejen vil samle sig og begynde at slippe kanterne, når du får æltet den godt.<br /><br />Sæt dejen til hævning til dobbelt størrelse (det tager ca. 1½ time) i en skål med et fugtigt klæde over, og lav imens remoncen ved at røre smør, sukker og kanel sammen, til det er cremet i konsistensen.<br /><br />Når dejen er færdighævet, tages den ud på bordet til endnu en hurtig omgang æltning. Dejen er færdigæltet, når den slipper både bord og hænder.<br /><br />Tænd ovnen for 225 grader. Rul den derefter ud til et rektangel på ca. 25 x 40 cm og smør remoncen ud over. Rul dejen sammen på den lange side, og skær sneglene ud i ca. 3 cm tykkelse.<br /><br />Læg dem med 2-3 cm imellem på en bradepande med bagepapir, og lad dem hæve under et klæde i 45 min, til de næsten rører hinanden. Pensl med et sammenpisket æg, og bag sneglene i 12-15 minutter, eller til de er gyldne og flotte at se på.<br /><br />Lad dem køle ned til stuetemperatur, før du pynter dem med glasur eller bare serverer, dem helt som de er.",
+  "tilberedningstid": 60,
+  "pris": 15,
+  "antal": 20,
+  "kategori": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "ingredienser": [
+    {
+      "_id": {
+        "$oid": "5f70d44426a63a5b508a6934"
+      },
+      "ingrediens_titel": "Kanel",
+      "maengde": 2,
+      "enhed_forkortet": "spsk",
+      "enhed_navn": "Spiseskefuld"
+    }
+  ],
+  "image": "knudstore.jpg",
+  "__v": 1
+}]

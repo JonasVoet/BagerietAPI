@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5f63b9f9702cca37f87ce06f"
+  },
+  "titel": "Morgenbrød",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba0b702cca37f87ce070"
+  },
+  "titel": "Baguettes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba14702cca37f87ce071"
+  },
+  "titel": "Franskbrød",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba1c702cca37f87ce072"
+  },
+  "titel": "Kager",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba23702cca37f87ce073"
+  },
+  "titel": "Rugbrød",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba29702cca37f87ce074"
+  },
+  "titel": "Grovbrød",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63ba30702cca37f87ce075"
+  },
+  "titel": "Boller",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a5afd2036095b450c291"
+  },
+  "titel": "Madbrød",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70e16472e68d8a60d426b3"
+  },
+  "titel": "Ny kategori rettet",
+  "__v": 0
+}]

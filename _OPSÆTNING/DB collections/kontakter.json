@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5f70c772da5ca06ac0686051"
+  },
+  "navn": "Marianne",
+  "email": "mb@videndjurs.dk",
+  "emne": "Pøjpøj",
+  "besked": "Held og lykke med jeres eksamen. Håber, at I får mulighed for at vise alt det bedste I kan.",
+  "modtagetdato": {
+    "$date": "2020-09-27T17:10:10.221Z"
+  },
+  "__v": 0
+}]

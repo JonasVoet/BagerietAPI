@@ -1,0 +1,369 @@
+[{
+  "_id": {
+    "$oid": "5f6e1b1d4994a38e5078b7ff"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Super!",
+  "kommentaren": "Super opskrift - det er bare namnam",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f670f0dd1be3e2fd0cb2637"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1b404994a38e5078b800"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Bare skøn!",
+  "kommentaren": "Det er helt klart en vinder - tak for at dele.",
+  "bruger": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "produkt": {
+    "$oid": "5f67129ad1be3e2fd0cb263c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1b674994a38e5078b801"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Rugbrød som jeg husker det",
+  "kommentaren": "Elsker det her sønderjyske rugbrød - det kan stort set ikke købes længere. TAK!",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f67129ad1be3e2fd0cb263c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1b8c4994a38e5078b802"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Jeg elsker brød",
+  "kommentaren": "Vil bare sige, at jeg elsker brød",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f671434d1be3e2fd0cb263f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1bbd4994a38e5078b803"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Super suppeflutes!",
+  "kommentaren": "De er skønne til suppe ... faktisk bare skønne til alt :-)",
+  "bruger": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "produkt": {
+    "$oid": "5f671434d1be3e2fd0cb263f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1bf54994a38e5078b804"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Saftige og sprøde på samme tid",
+  "kommentaren": "Verdens bedste gulleboller!",
+  "bruger": {
+    "$oid": "5f6daddf89b7d73ad47cfbe8"
+  },
+  "produkt": {
+    "$oid": "5f6718c0d1be3e2fd0cb2646"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1c174994a38e5078b805"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Prøv det til suppe",
+  "kommentaren": "... det gjorde vi, og det var en vinder!",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f671954d1be3e2fd0cb2647"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1c394994a38e5078b806"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Skønt madbrød",
+  "kommentaren": "Vi bager det til næsten alt - mega populært i familien.",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f671954d1be3e2fd0cb2647"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1c584994a38e5078b807"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Fristende",
+  "kommentaren": "De bliver spist med det samme så pas bare på!",
+  "bruger": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "produkt": {
+    "$oid": "5f678f71667d3b63109c0d3e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1c7a4994a38e5078b808"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Søde og lækre",
+  "kommentaren": "Perfekt hvis man lige har en rest marcipan tilovers efter jul og nytår - velbekomme!",
+  "bruger": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "produkt": {
+    "$oid": "5f6ce7b3a73b314fa4d0179d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1c994994a38e5078b809"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Lækkert",
+  "kommentaren": "De er bare skønne - prøv dem",
+  "bruger": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "produkt": {
+    "$oid": "5f6ce7b3a73b314fa4d0179d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e1fc34994a38e5078b80a"
+  },
+  "oprettet": {
+    "$date": "2020-09-25T16:19:21.506Z"
+  },
+  "titel": "Gudeskønne snitter",
+  "kommentaren": "De er bare de bedste - imponerer mine gæster HVER gang!!!!!",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f670f0dd1be3e2fd0cb2637"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f82d14420357e2070c963"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Fedt nok",
+  "kommentaren": "De er skønne med masser af smør ... den skal bare have hele pakken!",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f671146d1be3e2fd0cb263a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f839c4420357e2070c964"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Drop nu de købte",
+  "kommentaren": "De tager ingen tid, og de er skønne.",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f67132bd1be3e2fd0cb263d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f86dc4420357e2070c965"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Grove og sunde",
+  "kommentaren": "Måske ikke lige favoritten her, men de mætter fantastisk og er gode i madpakken.",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f6710c5d1be3e2fd0cb2639"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f884c4420357e2070c966"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Nuuuuj de er gode!",
+  "kommentaren": "Dem kommer jeg vist til at bage igen og igen. Kan varmt anbefales!",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f6714ded1be3e2fd0cb2640"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f88e54420357e2070c967"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Bliver lige nødt til at rose dem igen",
+  "kommentaren": "De er HELT fantastiske. TAK!",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f6714ded1be3e2fd0cb2640"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f89964420357e2070c968"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T15:07:46.200Z"
+  },
+  "titel": "Børnene elsker dem",
+  "kommentaren": "De er grove men søde og gode.",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f67163fd1be3e2fd0cb2641"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6fac9e281d062c803fb976"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T20:55:10.615Z"
+  },
+  "titel": "De er kanon",
+  "kommentaren": "På den gode måde ...",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f6710c5d1be3e2fd0cb2639"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6fad1b281d062c803fb977"
+  },
+  "oprettet": {
+    "$date": "2020-09-26T20:55:10.615Z"
+  },
+  "titel": "Perfekte til grillmad",
+  "kommentaren": "På en varm sommeraften ... grill i have, og så de her flutes. Det er sgu livet!",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f6713b6d1be3e2fd0cb263e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f705e780daa3674547b512a"
+  },
+  "oprettet": {
+    "$date": "2020-09-27T09:11:42.340Z"
+  },
+  "titel": "Jeg elsker brød",
+  "kommentaren": "Vil bare sige, at jeg elsker brød",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f64fb588875d28b9484b30c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7060050daa3674547b512b"
+  },
+  "oprettet": {
+    "$date": "2020-09-27T09:11:42.340Z"
+  },
+  "titel": "Jeg elsker brød",
+  "kommentaren": "Vil bare sige, at jeg elsker brød",
+  "bruger": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "produkt": {
+    "$oid": "5f64fb588875d28b9484b30c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7060170daa3674547b512c"
+  },
+  "oprettet": {
+    "$date": "2020-09-27T09:11:42.340Z"
+  },
+  "titel": "Til test ...3",
+  "kommentaren": "De er bare skønne - prøv dem",
+  "bruger": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "produkt": {
+    "$oid": "5f6e5a21d3cfd4072083fcf3"
+  },
+  "__v": 0
+}]

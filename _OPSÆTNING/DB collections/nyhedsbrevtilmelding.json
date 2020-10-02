@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5f6a603840d3372d647b6651"
+  },
+  "email": "xxx@xxx.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6ad17efde0ba75a80f2a8e"
+  },
+  "email": "yyy@xxx.dk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b895555646e05d084a9ce"
+  },
+  "email": "hejder@test.dk",
+  "__v": 0
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "5f65c808485b6f9980b576b7"
+  },
+  "brugernavn": "xray",
+  "fornavn": "Peter",
+  "efternavn": "Bager",
+  "email": "peter@bager.dk",
+  "password": "$2b$05$fFXJg9C.la.fxqTorOqw4eGseNwM0LE5Yn2EOUFO2dMBKLbz/NX8m",
+  "rolle": "ADMIN",
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5f6daddf89b7d73ad47cfbe8"
+  },
+  "brugernavn": "kokken",
+  "fornavn": "Karl",
+  "efternavn": "Hansen",
+  "email": "kokken@mail.com",
+  "password": "$2b$05$hGkLiAuxcwwKuqRU/zist.scHYgJYeTPppDGz0YkwB.v1ItsX068y",
+  "rolle": "Medlem",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f6dae1689b7d73ad47cfbe9"
+  },
+  "brugernavn": "madmor",
+  "fornavn": "Laila",
+  "efternavn": "Ilsø",
+  "email": "madmor@mail.com",
+  "password": "$2b$05$UPoswLMkkuQrO85I25.VwOu/dop8nvJseIzA5ggTtpBfgXQhWIKCO",
+  "rolle": "Medlem",
+  "__v": 33
+},{
+  "_id": {
+    "$oid": "5f6dae4f89b7d73ad47cfbea"
+  },
+  "brugernavn": "havregrynskuglen",
+  "fornavn": "Sanne",
+  "efternavn": "Smørhøj",
+  "email": "sanne@smorhoj.dk",
+  "password": "$2b$05$rf7qE8E3NuiNWYz/PYE3POJYzFsPeukg63Gr71JLJN8SZrcJjRiJK",
+  "rolle": "Medlem",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f6f94abde3bc7906834c234"
+  },
+  "brugernavn": "suppevisken",
+  "fornavn": "Søren",
+  "efternavn": "Hansen",
+  "email": "sha@mail.dk",
+  "password": "$2b$05$jgIJ8KIFyTIiOW781VZVkOUyB8IB6n36wy4DwPR2jULuruHnV2zKm",
+  "rolle": "Medlem",
+  "__v": 0
+}]

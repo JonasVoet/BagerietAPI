@@ -1,0 +1,36 @@
+
+Import af data til MongoDB
+
+1. Opret en mappe med navnet "eksamensjson" på C-drevet (VIGTIGT - det SKAL være på c-drevet)
+
+2. kopier json-filerne (fra mappen her) ind i mappen på C-drevet
+
+3. Find stien til bin-mappen i MongoDB - den ser nok ca. sådan her ud: C:\Program Files\MongoDB\Server\4.0\bin
+    - du har muligvis en anden version så 4.0 hedder 4.2 el.lign. hos dig.
+    - OBS! Hvis du har version 4.9 skal du lige sige til!!!
+
+4. Marker og kopier stien til din bin-mappe, så du har hele stien i udklipsholderen
+
+5. Åbn "CMD" (skriv cmd i Start og tryk ENTER) - eller en anden shell eller terminalen el.lign.
+
+6. Skriv "cd" og paste/indsæt stien fra udklipsholderen - så det ser ca. sådan her ud:    
+
+	cd C:\Program Files\MongoDB\Server\4.0\bin
+   
+7. Tryk ENTER - og tjek, at du nu står inde i bin-mappen i cmd-vinduet
+
+8. Kopier kommandoen herunder (vær omhyggelig med at få det hele med UDEN linjeskift eller andet):
+
+
+
+mongoimport --jsonArray --db bageriet --collection brugere --file C:\eksamensjson\brugere.json & mongoimport --jsonArray --db bageriet --collection kategorier --file C:\eksamensjson\kategorier.json & mongoimport --jsonArray --db bageriet --collection kommentarer --file C:\eksamensjson\kommentarer.json & mongoimport --jsonArray --db bageriet --collection kontakter --file C:\eksamensjson\kontakter.json & mongoimport --jsonArray --db bageriet --collection nyheder --file C:\eksamensjson\nyheder.json & mongoimport --jsonArray --db bageriet --collection nyhedsbrevtilmelding --file C:\eksamensjson\nyhedsbrevtilmelding.json & mongoimport --jsonArray --db bageriet --collection produkter --file C:\eksamensjson\produkter.json
+
+
+
+
+
+9. Paste/indsæt kommandoen (du skal stadig være i bin-mappen) og tryk ENTER (hvis den ikke går i gang med det samme)
+
+10. Nu burde MongoDB importe dine json-filer og oprette den nye database mv.
+
+11. Åbn MongoDB (localhost) - tryk på refresh og tjek, at den nye database er oprettet, og at der er collections med documents og data import
