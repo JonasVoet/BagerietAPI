@@ -66,7 +66,7 @@ router.post('/', async (req, res) => {
     var mailOptions = {
         from: 'bagerietinfo@gmail.com',
         to: req.body.email,
-        subject: 'Velkommen til vores nyhedsbrev',
+        subject: 'Velkommen til Bageriet',
         text: `Vi håber du bliver glad for at være en del af vores Bagværk community`
     };
 
@@ -114,7 +114,7 @@ router.delete('/admin/:id', findBruger, async (req, res) => {
 
     req.session.destroy(err => {
 
-        if (err) return res.status(500).json({ message: 'Sletning af bruger lykkedes ikke' }) // hvis fejl/ikke kan destroy så send til ???
+        if (err) return res.status(500).json({ message: 'Sletning af bruger lykkedes ikke' }) 
         res.clearCookie(process.env.SESSION_NAME).json({ message: 'Bruger slettet - cookie slettet' });
 
     })
